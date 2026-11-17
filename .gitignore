@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Сборка
+build/
+dist/
+*.spec
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Настройки пользователя
+config.json
+
+# Временные файлы
+*.tmp
+*.log
